@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Jquery-edit-inplace</title>
+    <style type="text/css">
+        .editInPlace .display, .editInPlace .edit {
+            font-style: italic;
+        }
+
+        .a .display, .a .edit {
+            font-size: 30px;
+        }
+
+        .b .display, .b .edit {
+            font-size: 40px;
+        }
+
+        .c .display, .c .edit {
+            font-size: 50px;
+        }
+    </style>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.js"></script>
+    <script src="jquery-edit-inplace.js"></script>
+    <script>
+        /*global $ */
+        function beforeChange (event, options) {
+            console.log('beforeChange "%s" keyCode %s', this.val(), event.keyCode);
+            // only allow a-z
+            if (event.keyCode > 90) {
+                event.preventDefault();
+            }
+        }
+
+        function afterChange (event, options) {
+            console.log('afterChange "%s" lastValue = "%s"', this.val(), options.lastValue);
+        }
+
+        function beforeCallback (event, options) {
+            console.log('beforeCallback "%s" lastValue = "%s"', this.val(), options.lastValue);
+            // plase note that if this returns FALSE then it will not call the callback.
+        }
+
+        function callback (event, options) {
+            var url = "/submit";
+            console.log('callback "%s" oldValue = "%s"', this.val(), options.focusValue);
+            if (options.focusValue !== options.value) {
+                // http://api.jquery.com/jQuery.ajax/
+                $.ajax(url,
+                        {
+                            data: {
+                                table: options.table,
+                                id: options.rowId,
+                                field: options.column,
+                                value: options.value
+                            },
+                            error: function (jqXHR, textSatus, errorThrown) {
+                                console.log('ajax error');
+                            },
+                            success: function (data, textStatus, jqXHR) {
+                                console.log('ajax success');
+                            }
+                        });
+                console.log('make ajax call');
+            }
+        }
+
+        $(document).ready(function () {
+            // lets default our handling.
+            var defaults = $.editInPlaceDefaults;
+            $.extend(defaults, {
+                beforeChange: beforeChange,
+                afterChange: afterChange,
+                beforeCallback: beforeCallback,
+                callback: callback
+            });
+
+            $('.editInPlace.a').editInPlace({
+                table: 'test',
+                rowId: '1',
+                column: 'name',
+                value: 'a'
+            });
+            $('.editInPlace.b').editInPlace({value: 'b'});
+            $('.editInPlace.c').editInPlace({value: 'c'});
+        });
+    </script>
+</head>
+<body>
+<div class="editInPlace a" tabindex="2"></div>
+<div class="editInPlace b" tabindex="1"></div>
+<div class="editInPlace c" tabindex="3"></div>
+</body>
+</html>
