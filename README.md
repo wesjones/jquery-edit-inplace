@@ -11,3 +11,4 @@ It is a UI component.
 $('.editInPlace').editInPlace({value: 'test', callback: function(event, options) { console.log('value changed to ' + this.val() +' from ' + options.focusValue});
 ```
 
+See index.html for an example of it's usage.

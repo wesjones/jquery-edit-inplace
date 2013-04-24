@@ -6,7 +6,8 @@
     <ignored path=".idea/workspace.xml" />
     <file path="/index.html" changelist="0b94c029-081f-432b-b46b-4462b3fb0b90" time="1366811937780" ignored="false" />
     <file path="/jquery-edit-inplace.js" changelist="0b94c029-081f-432b-b46b-4462b3fb0b90" time="1366811777383" ignored="false" />
-    <file path="/README.md" changelist="0b94c029-081f-432b-b46b-4462b3fb0b90" time="1366813668517" ignored="false" />
+    <file path="/README.md" changelist="0b94c029-081f-432b-b46b-4462b3fb0b90" time="1366814238109" ignored="false" />
+    <file path="/.gitignore" changelist="0b94c029-081f-432b-b46b-4462b3fb0b90" time="1366814355834" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +39,7 @@
       <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="0" selection-start="299" selection-end="299" vertical-scroll-proportion="0.116504855">
+            <state line="13" column="44" selection-start="344" selection-end="344" vertical-scroll-proportion="0.1262136">
               <folding />
             </state>
           </provider>
@@ -66,6 +67,7 @@
         <option value="$PROJECT_DIR$/jquery-edit-inplace.js" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -313,9 +315,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="5" selection-start="77" selection-end="77" vertical-scroll-proportion="0.058252428">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="0" selection-start="299" selection-end="299" vertical-scroll-proportion="0.116504855">
+        <state line="13" column="44" selection-start="344" selection-end="344" vertical-scroll-proportion="0.1262136">
           <folding />
         </state>
       </provider>
