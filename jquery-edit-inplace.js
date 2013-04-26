@@ -101,7 +101,8 @@
          */
         blurHandler = function (event) {
             update();
-            if (call(o.beforeCallback, [event]) !== false) {
+            call(o.beforeCallback, [event]);
+            if (!event.isDefaultPrevented()) {
                 this.display();
                 call(o.callback, [event]);
             }

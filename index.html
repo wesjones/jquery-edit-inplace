@@ -37,7 +37,8 @@
 
         function beforeCallback (event, options) {
             console.log('beforeCallback "%s" lastValue = "%s"', this.val(), options.lastValue);
-            // plase note that if this returns FALSE then it will not call the callback.
+            // plase note if you call prevent default on the event. The callback will not fire.
+            //event.preventDefault();
         }
 
         function callback (event, options) {

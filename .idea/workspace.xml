@@ -4,10 +4,45 @@
     <list default="true" id="0b94c029-081f-432b-b46b-4462b3fb0b90" name="Default" comment="" />
     <ignored path="jquery-edit-inplace.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/index.html" changelist="0b94c029-081f-432b-b46b-4462b3fb0b90" time="1366811937780" ignored="false" />
-    <file path="/jquery-edit-inplace.js" changelist="0b94c029-081f-432b-b46b-4462b3fb0b90" time="1366811777383" ignored="false" />
+    <file path="/index.html" changelist="0b94c029-081f-432b-b46b-4462b3fb0b90" time="1366993960769" ignored="false" />
+    <file path="/jquery-edit-inplace.js" changelist="0b94c029-081f-432b-b46b-4462b3fb0b90" time="1366993935733" ignored="false" />
     <file path="/README.md" changelist="0b94c029-081f-432b-b46b-4462b3fb0b90" time="1366814238109" ignored="false" />
     <file path="/.gitignore" changelist="0b94c029-081f-432b-b46b-4462b3fb0b90" time="1366814355834" ignored="false" />
+    <file path="/*.regexp" changelist="0b94c029-081f-432b-b46b-4462b3fb0b90" time="1366840895209" ignored="false" />
+    <file path="/errorDialog.html" changelist="0b94c029-081f-432b-b46b-4462b3fb0b90" time="1366818894494" ignored="false" />
+    <file path="I:/CUSTOMERS/UniversalMind/projects/gfs/trunk/distribution/doc/docEar/src/main/j2ee-apps/doc/doc.war/desktop/partials/errors/errorDialog.html" changelist="0b94c029-081f-432b-b46b-4462b3fb0b90" time="1366818894494" ignored="false" />
+    <file path="/Dummy.txt" changelist="0b94c029-081f-432b-b46b-4462b3fb0b90" time="1366833660857" ignored="false" />
+    <file path="I:/CUSTOMERS/UniversalMind/projects/gfs/branch/doc/docEar/src/main/j2ee-apps/doc/doc.war/common/js/directives.js" changelist="0b94c029-081f-432b-b46b-4462b3fb0b90" time="1366820130042" ignored="false" />
+    <file path="I:/CUSTOMERS/UniversalMind/projects/gfs/branch/doc/docEar/src/main/j2ee-apps/doc/doc.war/common/js/controllers/tenKey.js" changelist="0b94c029-081f-432b-b46b-4462b3fb0b90" time="1366820130042" ignored="false" />
+    <file path="I:/CUSTOMERS/UniversalMind/projects/gfs/branch/doc/docEar/src/main/j2ee-apps/doc/doc.war/common/js/const.js" changelist="0b94c029-081f-432b-b46b-4462b3fb0b90" time="1366822548712" ignored="false" />
+    <file path="/const.js" changelist="0b94c029-081f-432b-b46b-4462b3fb0b90" time="1366830061483" ignored="false" />
+    <file path="I:/CUSTOMERS/UniversalMind/projects/gfs/branch/doc/docEar/src/main/j2ee-apps/doc/doc.war/common/js/commands/MapCommandsCommand.js" changelist="0b94c029-081f-432b-b46b-4462b3fb0b90" time="1366821864828" ignored="false" />
+    <file path="I:/CUSTOMERS/UniversalMind/projects/gfs/trunk/distribution/doc/docEar/src/main/j2ee-apps/doc/doc.war/common/js/commands/selectAccount/CleanupCommand.js" changelist="0b94c029-081f-432b-b46b-4462b3fb0b90" time="1366831956665" ignored="false" />
+    <file path="I:/CUSTOMERS/UniversalMind/projects/gfs/branch/doc/docEar/src/main/j2ee-apps/doc/doc.war/common/js/commands/selectAccount/CleanupCommand.js" changelist="0b94c029-081f-432b-b46b-4462b3fb0b90" time="1366822203535" ignored="false" />
+    <file path="I:/CUSTOMERS/UniversalMind/projects/gfs/trunk/distribution/doc/docEar/src/main/j2ee-apps/doc/doc.war/common/js/lib/calendar/Calendar.js" changelist="0b94c029-081f-432b-b46b-4462b3fb0b90" time="1366826323622" ignored="false" />
+    <file path="/Calendar.js" changelist="0b94c029-081f-432b-b46b-4462b3fb0b90" time="1366826323622" ignored="false" />
+    <file path="I:/CUSTOMERS/UniversalMind/projects/gfs/trunk/distribution/doc/docEar/src/main/j2ee-apps/doc/doc.war/common/js/const.js" changelist="0b94c029-081f-432b-b46b-4462b3fb0b90" time="1366830060804" ignored="false" />
+    <file path="I:/CUSTOMERS/UniversalMind/projects/gfs/trunk/distribution/doc/docEar/src/main/j2ee-apps/doc/doc.war/common/js/controllers/datePicker.js" changelist="0b94c029-081f-432b-b46b-4462b3fb0b90" time="1366827371119" ignored="false" />
+    <file path="I:/CUSTOMERS/UniversalMind/projects/gfs/trunk/distribution/doc/docEar/src/main/j2ee-apps/doc/doc.war/common/js/directives.js" changelist="0b94c029-081f-432b-b46b-4462b3fb0b90" time="1366829143113" ignored="false" />
+    <file path="/directives.js" changelist="0b94c029-081f-432b-b46b-4462b3fb0b90" time="1366829137182" ignored="false" />
+    <file path="I:/CUSTOMERS/UniversalMind/projects/gfs/trunk/distribution/doc/docEar/src/main/j2ee-apps/doc/doc.war/desktop/js/controllers/main.js" changelist="0b94c029-081f-432b-b46b-4462b3fb0b90" time="1366829579097" ignored="false" />
+    <file path="I:/CUSTOMERS/UniversalMind/projects/gfs/trunk/distribution/doc/docEar/src/main/j2ee-apps/doc/doc.war/common/js/commands/MapCommandsCommand.js" changelist="0b94c029-081f-432b-b46b-4462b3fb0b90" time="1366831811645" ignored="false" />
+    <file path="I:/CUSTOMERS/UniversalMind/projects/gfs/trunk/distribution/doc/docEar/jsTestDriver.conf" changelist="0b94c029-081f-432b-b46b-4462b3fb0b90" time="1366833623807" ignored="false" />
+    <file path="I:/CUSTOMERS/UniversalMind/projects/gfs/trunk/distribution/doc/docEar/src/main/j2ee-apps/doc/doc.war/mockdata/serviceTester/index.html" changelist="0b94c029-081f-432b-b46b-4462b3fb0b90" time="1366841412024" ignored="false" />
+    <file path="I:/CUSTOMERS/UniversalMind/projects/gfs/trunk/distribution/doc/docEar/src/main/j2ee-apps/doc/doc.war/mockdata/serviceTester/js/scenarios.js" changelist="0b94c029-081f-432b-b46b-4462b3fb0b90" time="1366839592616" ignored="false" />
+    <file path="I:/CUSTOMERS/UniversalMind/projects/gfs/trunk/distribution/doc/docEar/src/main/j2ee-apps/doc/doc.war/mockdata/serviceTester/js/serviceRunner.js" changelist="0b94c029-081f-432b-b46b-4462b3fb0b90" time="1366839972661" ignored="false" />
+    <file path="/scenarios.js" changelist="0b94c029-081f-432b-b46b-4462b3fb0b90" time="1366839592616" ignored="false" />
+    <file path="I:/CUSTOMERS/UniversalMind/projects/gfs/trunk/distribution/doc/docEar/src/main/j2ee-apps/doc/doc.war/common/js/lib/servicequeue/ServiceQueue.js" changelist="0b94c029-081f-432b-b46b-4462b3fb0b90" time="1366857833194" ignored="false" />
+    <file path="/ServiceQueue.js" changelist="0b94c029-081f-432b-b46b-4462b3fb0b90" time="1366857833194" ignored="false" />
+    <file path="I:/CUSTOMERS/UniversalMind/projects/gfs/trunk/distribution/doc/docEar/src/main/j2ee-apps/doc/doc.war/mockdata/serviceTester/css/app.css" changelist="0b94c029-081f-432b-b46b-4462b3fb0b90" time="1366839787526" ignored="false" />
+    <file path="/app.css" changelist="0b94c029-081f-432b-b46b-4462b3fb0b90" time="1366839779414" ignored="false" />
+    <file path="I:/CUSTOMERS/UniversalMind/projects/gfs/trunk/distribution/doc/docEar/src/main/j2ee-apps/doc/doc.war/mockdata/serviceTester/js/app.js" changelist="0b94c029-081f-432b-b46b-4462b3fb0b90" time="1366841455838" ignored="false" />
+    <file path="/app.js" changelist="0b94c029-081f-432b-b46b-4462b3fb0b90" time="1366841421209" ignored="false" />
+    <file path="I:/CUSTOMERS/UniversalMind/projects/gfs/trunk/distribution/doc/docEar/src/main/j2ee-apps/doc/doc.war/mockdata/serviceTester/partials/main.html" changelist="0b94c029-081f-432b-b46b-4462b3fb0b90" time="1366838947509" ignored="false" />
+    <file path="I:/CUSTOMERS/UniversalMind/projects/gfs/trunk/distribution/doc/docEar/src/main/j2ee-apps/doc/doc.war/mockdata/serviceTester/js/controllers.js" changelist="0b94c029-081f-432b-b46b-4462b3fb0b90" time="1366842105045" ignored="false" />
+    <file path="/controllers.js" changelist="0b94c029-081f-432b-b46b-4462b3fb0b90" time="1366842022472" ignored="false" />
+    <file path="/main.html" changelist="0b94c029-081f-432b-b46b-4462b3fb0b90" time="1366838947509" ignored="false" />
+    <file path="/serviceRunner.js" changelist="0b94c029-081f-432b-b46b-4462b3fb0b90" time="1366839879324" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,19 +62,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="82" column="12" selection-start="2847" selection-end="2893" vertical-scroll-proportion="-53.615383">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="44" selection-start="344" selection-end="344" vertical-scroll-proportion="0.1262136">
+            <state line="69" column="49" selection-start="2480" selection-end="2480" vertical-scroll-proportion="0.68">
               <folding />
             </state>
           </provider>
@@ -48,7 +74,7 @@
       <file leaf-file-name="jquery-edit-inplace.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/jquery-edit-inplace.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="44" selection-start="550" selection-end="550" vertical-scroll-proportion="0.0">
+            <state line="104" column="46" selection-start="2903" selection-end="2903" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -64,10 +90,10 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/jquery-edit-inplace.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/jquery-edit-inplace.js" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -190,7 +216,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25129983" sideWeight="0.9756335" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25563258" sideWeight="0.9756335" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
@@ -275,6 +301,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/jquery-edit-inplace.js">
       <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="44" selection-start="550" selection-end="550" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jquery-edit-inplace.js">
+      <provider selected="true" editor-type-id="text-editor">
         <state line="11" column="30" selection-start="379" selection-end="379" vertical-scroll-proportion="0.0">
           <folding />
         </state>
@@ -301,30 +341,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="5" selection-start="77" selection-end="77" vertical-scroll-proportion="0.058252428" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="44" selection-start="344" selection-end="344" vertical-scroll-proportion="0.12715766">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/jquery-edit-inplace.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="44" selection-start="550" selection-end="550" vertical-scroll-proportion="0.0">
+        <state line="104" column="46" selection-start="2903" selection-end="2903" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="82" column="12" selection-start="2847" selection-end="2893" vertical-scroll-proportion="-53.615383">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="5" selection-start="77" selection-end="77" vertical-scroll-proportion="0.058252428">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="44" selection-start="344" selection-end="344" vertical-scroll-proportion="0.1262136">
+        <state line="69" column="49" selection-start="2480" selection-end="2480" vertical-scroll-proportion="0.68">
           <folding />
         </state>
       </provider>
